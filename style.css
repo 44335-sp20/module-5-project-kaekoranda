@@ -1,1 +1,33 @@
-body{}
+body{
+    
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+p {
+    text-align: center;
+}
+.heading {
+  display: grid;
+  grid-template-columns: auto auto auto;
+    text-align: center;
+}
+.buttons-category1 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+}
+
+.buttons-category2 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+}
+
+.buttons-category3 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+}
